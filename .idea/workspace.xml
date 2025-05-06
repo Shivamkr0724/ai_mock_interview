@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="005c0c58-7d51-49de-b30d-fa2c4178dfb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/api/vapi/generate/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vapi.sdk.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +97,7 @@
       <workItem from="1746434946813" duration="6973000" />
       <workItem from="1746474199668" duration="6289000" />
       <workItem from="1746505455011" duration="375000" />
-      <workItem from="1746522489957" duration="3879000" />
+      <workItem from="1746522489957" duration="4607000" />
     </task>
     <servers />
   </component>
